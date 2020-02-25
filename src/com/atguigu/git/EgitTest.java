@@ -6,6 +6,7 @@ public class EgitTest {
 		System.out.println("哈喽,nizaima?");
 		System.out.println("嗨，在呢。");
 
+		System.out.println("彦豹你好呀！");
 	}
 
 }
