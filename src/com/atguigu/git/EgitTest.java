@@ -8,6 +8,8 @@ public class EgitTest {
 		System.out.println("嗨我是彦豹！");
 
 		System.out.println("彦豹你好呀！");
+	
+		System.out.println("开发一个新的功能");
 	}
 
 }
